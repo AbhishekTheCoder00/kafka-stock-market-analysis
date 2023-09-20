@@ -19,8 +19,8 @@ Possesses advanced SQL skills, ensuring smooth data manipulation and facilitatin
 https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/Architecture.jpg
 
 <h3 style="font-size: 24px;">Technology Used</h3>
-<h4 style="font-size: 24px;"Programming Language - Python</h4>
-<h4 style="font-size: 24px;"Amazon Web Service (AWS):</h4>
+<h4 style="font-size: 24px;">Programming Language - Python</h4>
+<h4 style="font-size: 24px;">Amazon Web Service (AWS):</h4>
 S3 (Simple Storage Service)
 Athena
 Glue Crawler
