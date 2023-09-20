@@ -21,11 +21,11 @@ https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/Arch
 <h3 style="font-size: 24px;">Technology Used</h3>
 <h4 style="font-size: 24px;">Programming Language - Python</h4>
 <h4 style="font-size: 24px;">Amazon Web Service (AWS):</h4>
-S3 (Simple Storage Service)
-Athena
-Glue Crawler
-Glue Catalog
-EC2
+S3 (Simple Storage Service)<br>
+Athena<br>
+Glue Crawler<br>
+Glue Catalog<br>
+EC2<br>
 
 <h3 style="font-size: 24px;">Dataset</h3>
 https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/indexProcessed.csv
