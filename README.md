@@ -19,4 +19,5 @@ Possesses advanced SQL skills, ensuring smooth data manipulation and facilitatin
 https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/Architecture.jpg
 
 <h3 style="font-size: 24px;">Dataset</h3>
+https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/indexProcessed.csv
 
