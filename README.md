@@ -11,3 +11,6 @@ Demonstrated expertise in managing data catalogs using Glue and designing robust
 Possesses advanced SQL skills, ensuring smooth data manipulation and facilitating insightful analysis.
 
 #ARCHITECTURE
+
+https://github.com/AbhishekTheCoder00/kafka-stock-market-analysis/blob/main/Architecture.jpg
+
