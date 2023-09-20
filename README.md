@@ -1,4 +1,4 @@
-<h1 style="font-size: 24px;">Stock Market Kafka Real Time Data Engineering Projectr</h1>
+<h1 style="font-size: 24px;">Stock Market Kafka Real Time Data Engineering Project</h1>
 
 <h3 style="font-size: 24px;">Introduction</h3>
 
